@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-leopard/webpack-day-jose_christian/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-leopard/webpack-day-jose_christian#readme"
+  "homepage": "https://github.com/thinkful-ei-leopard/webpack-day-jose_christian#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
